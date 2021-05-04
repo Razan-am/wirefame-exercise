@@ -1,0 +1,100 @@
+body{
+    background-color:#DDD;
+}
+
+nav ul{
+    background-color: #4a4e4e;
+    height: 140px;
+}
+
+ul li {
+    display: inline-block;
+    padding: 20px;
+    padding-top: 60px;
+
+}
+
+li{
+    margin-left: 50px;
+}
+
+#logo{
+    background-color: black;
+    padding-top: 30px;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+}
+
+a{
+    color: #DDD;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+
+}
+
+header img {
+    margin-top: 50px;
+    width:1255px;
+    height: 450px;
+    margin-left:50px;
+}
+
+section img{
+    width: 388px;
+    height: 375px;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding-left: 15px;
+
+}
+
+#image4{
+    width: 600px;
+    height: 375px;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding-left: 15px;
+    float: left;
+}
+
+h4{
+    
+    left: 30px;
+    font-size: 30px;
+    top: 25px;
+    position: relative;
+    display: inline;
+    font-family:monospace;
+}
+
+p{
+
+    font-size: 20px;
+    display: inline-block;
+    float: right;
+    margin-left: 675px;
+    margin-top: -300px;
+    font-family: cursive;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    margin-top: -250px;
+    margin-left: 800px;
+    background-color: black;
+    font-size: 10px;
+    color: blanchedalmond;
+    top: -35px;
+    position: relative;
+    
+}
+
+
+footer{
+    margin-top: 10px;
+    background-color: #4a4e4e;
+    height: 120px;
+}
