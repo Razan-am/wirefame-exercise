@@ -71,30 +71,32 @@ h4{
 
 p{
 
-    font-size: 20px;
+    font-size: 15px;
     display: inline-block;
     float: right;
-    margin-left: 675px;
-    margin-top: -300px;
+    margin-right: 270px;
+    top: 50px;
+    width: 400px;
+    position: relative;
     font-family: cursive;
 }
 
 button{
+    float: right;
     width: 150px;
     height: 50px;
-    margin-top: -250px;
-    margin-left: 800px;
+    margin-top: 175px;
+    margin-right: 300px;
     background-color: black;
     font-size: 10px;
     color: blanchedalmond;
-    top: -35px;
-    position: relative;
-    
+    width: 250px;
 }
 
 
 footer{
-    margin-top: 10px;
+    /* clear: both; */
+    margin-top: 400px;
     background-color: #4a4e4e;
-    height: 120px;
+    height: 90px;
 }
